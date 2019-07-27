@@ -1,5 +1,5 @@
 # Python-Project
 
-'''bash
+```bash
 The popular Tic-Tac-Toe Game in Python
-'''
+```
